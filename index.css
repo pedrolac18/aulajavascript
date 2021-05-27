@@ -1,0 +1,17 @@
+p {
+  color: black;
+  background-color: lightgray;
+  border: 2px solid darkcyan;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+ p {
+   text-shadow: 1px 1px 1px #111;
+   text-decoration: underline;
+   font-size: 20px;
+   margin-left: 30%;
+   margin-right: 30%;
+ }
